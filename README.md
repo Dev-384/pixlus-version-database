@@ -1,2 +1,2 @@
 # pixlus
-Current game I am working on
+## Version 1.0
